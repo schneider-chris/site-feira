@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: #2a72dd;
-    color: #000000;
+    color: #ffffff;
     padding: 20px;
 
 }
@@ -33,7 +33,7 @@ h2 {
 
 .catalogo {
     display: flex;
-    justify-content: left;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 80px;
 }
